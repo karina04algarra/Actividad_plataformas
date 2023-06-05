@@ -1,4 +1,4 @@
-class Plataforma{
+export class Plataforma{
     nombre: string;
     logo: string;
     descripcion: string;
